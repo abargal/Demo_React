@@ -64,7 +64,7 @@ const ABOUT_ME =
 const PROJECTS = ['Project 1 - Description', 'Project 2 - Description']; // Add more projects as needed
 const EMAIL = 'your.email@example.com';
 const LINKEDIN_URL = 'linkedin.com/in/yourprofile';
-const WORK_EXPERIENCE = 'Fullstack Developer at Agivant Technologies';
+const WORK_EXPERIENCE = 'AZURE DATA ENGINEER';
 
 const App = () => {
   const [isDarkMode, setIsDarkMode] = useState(true); // Set dark mode as default
